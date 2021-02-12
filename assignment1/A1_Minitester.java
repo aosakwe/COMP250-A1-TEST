@@ -16,7 +16,7 @@ class Basket_JamTax implements Runnable{
             + " but expected " + expected);
         }
         System.out.println("Basket tax test passed.");
-        //random comment to test commit functionality
+
     }
 }
 
